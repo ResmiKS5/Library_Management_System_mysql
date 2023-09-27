@@ -1,0 +1,11 @@
+Issue_Id,Issued_cust,Issued_book_name,Issue_date,Isbn_book
+401,123,Randamoozham,2023-01-01,978-45-67890-09-8
+402,124,"Pathummayude Aadu",2023-02-02,978-12-67890-09-8
+403,125,Aadujeevitham,2023-03-03,978-34-67890-09-8
+404,126,"The legends of Khasak",2023-04-04,978-56-67890-09-8
+405,127,Balyakalasakhi,2023-05-05,978-78-67890-09-8
+406,128,"Ente Kadha",2023-06-06,978-90-67890-09-8
+407,129,"Oru Desathinte Katha ",2023-07-07,978-01-67890-09-8
+408,124,Naalukettu,2022-12-12,978-02-67890-09-8
+409,131,"Oru Sangeerthanam pole",2023-01-02,978-03-67890-09-8
+410,132,"keenavum kannerum",2023-02-14,978-04-67890-09-8
